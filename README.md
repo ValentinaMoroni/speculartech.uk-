@@ -148,8 +148,7 @@
 <body>
     <div class="container">
         <header>
-            <!-- Se vuoi, sostituisci con il logo: -->
-            <!-- <img src="logo.png" alt="Specular Technologies" class="logo"> -->
+            <img src="logo.png" alt="Specular Technologies" class="logo">
             <h1>Specular Technologies Ltd</h1>
             <p class="tagline">A geometric framework for information processing.</p>
         </header>
