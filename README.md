@@ -11,7 +11,6 @@
             --specular-light: #5B3FA8;
             --text-dark: #1A1A1A;
             --text-gray: #4A4A4A;
-            --bg-light: #F5F3FA;
         }
 
         * {
